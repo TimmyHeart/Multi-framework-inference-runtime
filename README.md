@@ -69,4 +69,3 @@ This project proves that physical hardware limitations can be bypassed. With one
 | :---: | :---: |
 | [![Video Butler](https://img.shields.io/badge/▶_Xem_Video-Butler-blue?style=for-the-badge)](https://github.com/TimmyHeart/Multi-framework-inference-runtime/blob/main/videos/butler.mp4) | [![Video 153s-it](https://img.shields.io/badge/▶_Xem_Video-153s--it-green?style=for-the-badge)](https://github.com/TimmyHeart/Multi-framework-inference-runtime/blob/main/videos/153s-it.mp4) |
 
-> **Note:** Do dung lượng video lớn (>10MB), vui lòng click vào nút phía trên để xem trực tiếp trên GitHub Player.
