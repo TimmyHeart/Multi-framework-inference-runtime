@@ -64,7 +64,7 @@ This project proves that physical hardware limitations can be bypassed. With one
 ---
 
 ### Video Demo 1: Butler
-<video src="https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/butler.mp4" width="100%" controls></video>
+![](https://github.com/TimmyHeart/Multi-framework-inference-runtime/raw/main/videos/butler.mp4)
 
 ### Video Demo 2: 153s/it
-<video src="https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/153s-it.mp4" width="100%" controls></video>
+![](https://github.com/TimmyHeart/Multi-framework-inference-runtime/raw/main/videos/153s-it.mp4)
