@@ -1,3 +1,5 @@
+
+
 <meta name="google-site-verification" content="ZzAOaZlKFp56KqYgYL6FGMX3dGndcmAZ9pRnCptQyLI" />
 <meta name="google-site-verification" content="google998183e4f9efe8a3.html" />
 <meta name="description" content="High-performance GGUF-to-Diffusers backend for Wan 2.2 14B and SDXL. Optimized for GPU CMP 40HX 8GB and CUDA 11.1.">
@@ -61,11 +63,9 @@ This project proves that physical hardware limitations can be bypassed. With one
 
 ---
 ## Butler Runtime Demo
-
-https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/butler.mp4
+<video src="https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/butler.mp4" controls width="600"></video>
 
 ---
 
-## 153s IT Demo
-
-https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/153s-it.mp4
+## 153s/it Demo
+<video src="https://raw.githubusercontent.com/TimmyHeart/Multi-framework-inference-runtime/main/videos/153s-it.mp4" controls width="600"></video>
