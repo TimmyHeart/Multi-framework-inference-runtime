@@ -7,6 +7,24 @@
 
 ### 🔗 Official Repository:[github.com/TimmyHeart/Multi-framework-inference-runtime](https://github.com/TimmyHeart/Multi-framework-inference-runtime)
 
+### 🎥 Performance Demos
+
+<div align="center">
+
+  <h4>Butler Inference Demo</h4>
+  <a href="https://www.youtube.com/watch?v=DZEjKYv6aFY">
+    <img src="https://img.youtube.com/vi/DZEjKYv6aFY/0.jpg" alt="Butler Demo" width="600">
+  </a>
+
+  <br><br>
+
+  <h4>153s/it Benchmark</h4>
+  <a href="https://www.youtube.com/watch?v=akgGUMztavg">
+    <img src="https://img.youtube.com/vi/akgGUMztavg/0.jpg" alt="153s Demo" width="600">
+  </a>
+
+</div>
+
 ### 🛡️ Thông tin dự án
 > *This project is a personal initiative. I am open to further discussions and collaborations. Please contact me directly for technical details and the latest updates.*
 
@@ -63,21 +81,5 @@ This project proves that physical hardware limitations can be bypassed. With one
 
 ---
 
-### 🎥 Performance Demos
 
-<div align="center">
-
-  <h4>Butler Inference Demo</h4>
-  <a href="https://www.youtube.com/watch?v=DZEjKYv6aFY">
-    <img src="https://img.youtube.com/vi/DZEjKYv6aFY/0.jpg" alt="Butler Demo" width="600">
-  </a>
-
-  <br><br>
-
-  <h4>153s/it Benchmark</h4>
-  <a href="https://www.youtube.com/watch?v=akgGUMztavg">
-    <img src="https://img.youtube.com/vi/akgGUMztavg/0.jpg" alt="153s Demo" width="600">
-  </a>
-
-</div>
 
