@@ -95,3 +95,5 @@ After more than a month, after dozens of versions, after sleepless nights and mo
 Not because the name sounds good. But because I wanted it to serve — quietly, reliably, always there — like a real butler standing between two worlds of language.
 
 And even now, I still don't feel like it's quite done.
+
+May 14th, 2026. Yun said she wanted a voice-translator. I frantically dove back into researching the steps to build one—the same project I had failed at over a hundred times in a row three months ago until I finally gave up. But today, May 15th, 2026, after testing it over 30 times, it finally worked! xD It’s not perfect yet, but it feels like I’m slowly conquering the very thing I walked away from three months ago.
