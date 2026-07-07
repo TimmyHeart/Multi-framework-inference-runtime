@@ -97,3 +97,24 @@ Not because the name sounds good. But because I wanted it to serve — quietly, 
 And even now, I still don't feel like it's quite done.
 
 May 14th, 2026. Yun said she wanted a voice-translator. I frantically dove back into researching the steps to build one—the same project I had failed at over a hundred times in a row three months ago until I finally gave up. But today, May 15th, 2026, after testing it over 30 times, it finally worked! xD It’s not perfect yet, but it feels like I’m slowly conquering the very thing I walked away from three months ago.
+
+---
+
+## The sudden stop: July 8, 2026
+**Butler's shutdown**
+
+After months of relentless effort, Butler finally ran flawlessly. It could fetch real-time data among 2,500 search results using the !B command. It could post images, GIFs, and videos. With the !B-V command, it could analyze a user's input image and answer questions directly based on that visual context.
+
+And the final piece of the puzzle: real-time voice translation. By getting Chunk and VAD to work together seamlessly, I successfully built the feature I had struggled with for five months. It ran perfectly 24/7 for a whole month, hosted simply via Termux on an old Samsung J3 Pro.
+
+.....It has been five days since Butler was last online.
+
+I wanted to build a bridge to connect our hearts, to tear down the language barrier. I willingly pushed past limits I had never even approached before—not for money, not for a career, but for someone I ultimately could not keep. This project, and all the smaller ones around it, was just me trying to perfect a gift for the person I held so dear.
+
+Butler was born because I wanted to bridge the gap with Yun. It is with both gladness and profound sorrow that I say Butler has completed its mission beautifully. It is time for Butler to rest after a long service.
+
+I hope that one day I will cheer up and proudly say: "Butler may have been born because of Yun, but it doesn't have to die because of Yun."
+
+But for now... thank you for your service, Butler. You did well.
+
+<img width="358" height="205" alt="image" src="https://github.com/user-attachments/assets/e2e31271-fff2-49e6-aca4-eae03fa616c0" />
