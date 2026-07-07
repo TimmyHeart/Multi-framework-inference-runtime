@@ -20,7 +20,7 @@ If someone went back and edited their message, Butler noticed. It would resync a
 
 And the final piece: real-time voice translation.
 
-I started this whole journey trying to run everything offline — GGUF models, hand-patched for a GPU nobody supported anymore. By the end, translation and voice ran almost entirely through APIs instead — Gemini, Groq — while image and video generation stayed the one piece that remained stubbornly local, still squeezed onto that same old GPU.
+I started this whole journey trying to run everything offline — GGUF models, hand-patched for a GPU nobody supported anymore *[ The Legendary CMP 40HX 8GB]*. By the end, translation and voice ran almost entirely through APIs instead — Gemini, Groq — while image and video generation stayed the one piece that remained stubbornly local, still squeezed onto that same old GPU.
 
 But "API-based" didn't mean the phone did nothing. Deciding when someone was speaking and cutting that audio into processable pieces — voice activity detection and chunking — all happened on the phone itself. From there, Groq's Whisper model handled transcription, for voice messages and live audio both. Gemini or Groq translated the text. A TTS model turned the translation back into audio. And Butler played that audio back through the mic automatically, so whoever was listening just heard the translation, live. Everything would run smoothly on RAM and caching 50 newest mesages for message-edit so that way Butler could works 24/7 without being worried to hit that OOM-WALL!
 
